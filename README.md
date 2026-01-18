@@ -1,1 +1,1 @@
-# Practice_C-Sharp-dotnet
+# C# 학습 정리 레포지터리
